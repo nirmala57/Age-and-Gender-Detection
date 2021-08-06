@@ -59,7 +59,7 @@ Gender: Female
 
 Age: 22-25 years
   
-  <img src="age and gender detection/girl1.jpg">
+  <img src="E:/age and gender detection/girl1.jpg">
 
 
 >python detect.py  
