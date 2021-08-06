@@ -51,13 +51,19 @@ Detecting Gender and Age of face through webcam Use Command :
 python detect.py --image girl1![Screenshot (200)](https://user-images.githubusercontent.com/55014144/128483400-f3ba86f1-014c-441f-a509-a34a688aed4e.png)
 .jpg
 
+
+
+
+
 Gender: Female
 
 Age: 22-25 years
 
+
 >python detect.py --image man2.jpg
 
 Gender: Male
+
 
 Age: 25-32 years![Screenshot (163)](https://user-images.githubusercontent.com/55014144/128494135-b6a6e14f-4186-4d1f-8a5f-e8b957b2383f.png)
 
