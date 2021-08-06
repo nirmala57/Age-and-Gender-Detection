@@ -6,12 +6,12 @@ In this Python Project, I had used Deep Learning to accurately identify the gend
 Additional Python Libraries Required :
 
 OpenCV
-   
-   pip install opencv-python
+![Screenshot (199)](https://user-images.githubusercontent.com/55014144/128483162-c00263ed-0bce-4125-9f43-3960aa2adf08.png)
+![Screenshot (199)](https://user-images.githubusercontent.com/55014144/128483261-3327d296-8d81-4ae7-bf62-6033f3688070.png)
+pip install opencv-python
 
 argparse
-  
-  pip install argparse
+pip install argparse
    
  The contents of this Project :
 
@@ -49,11 +49,20 @@ Detecting Gender and Age of face through webcam Use Command :
   python detect.py
   
  Working: 
- ![Screenshot (82)](https://user-images.githubusercontent.com/55014144/128482699-b4e12619-a2f4-4cbe-b74e-1cd6dfb22629.png)
  
- >python detect.py --image girl1.jpg
+ >python detect.py --image kid1![Screenshot (199)](https://user-images.githubusercontent.com/55014144/128483329-7206f203-a75d-4832-80ab-bb7872e33566.png)
+.jpg
+ >
 Gender: male
+
 Age: 4-6 years
+
+python detect.py --image girl1![Screenshot (200)](https://user-images.githubusercontent.com/55014144/128483400-f3ba86f1-014c-441f-a509-a34a688aed4e.png)
+.jpg
+Gender: Female
+
+Age: 22-25 years
+
 
 
 
