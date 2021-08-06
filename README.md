@@ -55,16 +55,11 @@
  
 python detect.py 
 
---image girl1!![Screenshot (200)](https://user-images.githubusercontent.com/55014144/128495495-3fcd98ae-4f55-4c21-acf5-3d074f3e9669.png)
-
-
-
-
-
-
 Gender: Female
 
 Age: 22-25 years
+  
+  <img src="Screenshot[163].jpg">
 
 
 >python detect.py  
