@@ -53,13 +53,13 @@
 
 # Working:
  
-python detect.py 
+python detect.py --image girl1.jpg![Screenshot (200)](https://user-images.githubusercontent.com/55014144/128500876-439ce384-fe6a-4446-b682-572db076580d.png)
+
 
 Gender: Female
 
 Age: 22-25 years
   
-  <img src="E:/age and gender detection/girl1.jpg">
 
 
 >python detect.py  
