@@ -60,7 +60,8 @@ Gender: Female
 Age: 22-25 years
 
 
->python detect.py --image man2.jpg![Screenshot (163)](https://user-images.githubusercontent.com/55014144/128494713-261ee2c4-b11d-4ab0-b26e-385ffc4c1099.png)
+>python detect.py                                                                                                                                                                
+--image man2.jpg![Screenshot (163)](https://user-images.githubusercontent.com/55014144/128494713-261ee2c4-b11d-4ab0-b26e-385ffc4c1099.png)
 
 
 Gender: Male
