@@ -6,8 +6,6 @@ In this Python Project, I had used Deep Learning to accurately identify the gend
 Additional Python Libraries Required :
 
 OpenCV
-![Screenshot (199)](https://user-images.githubusercontent.com/55014144/128483162-c00263ed-0bce-4125-9f43-3960aa2adf08.png)
-![Screenshot (199)](https://user-images.githubusercontent.com/55014144/128483261-3327d296-8d81-4ae7-bf62-6033f3688070.png)
 pip install opencv-python
 
 argparse
